@@ -4,7 +4,6 @@
 
 안녕하세요 신입 개발자 함지민입니다. 잘 부탁드립니다.
 <a href="https://www.notion.so/55bc11ca469949c4aeff2b0f4bea297e"><h5>개인프로젝트 CiecleImageBoard 낙서장</h5></a>
-<sctipt></script>
 <!--
 **gkawlals/gkawlals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
