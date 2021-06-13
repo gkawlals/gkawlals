@@ -6,8 +6,6 @@
 
 <a href="https://github.com/kkyu8925/chat-app">팀 프로젝트 Repository</a>
 
-<a href="https://www.notion.so/55bc11ca469949c4aeff2b0f4bea297e">개인프로젝트 CiecleImageBoard 낙서장</a>
-
 <!--
 **gkawlals/gkawlals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
