@@ -2,7 +2,7 @@
 
 <a href="https://www.notion.so/bf825b49021843cd85f3bd2029a56552"><h1>Portfolio</h1></a>
 
-안녕하세요 신입 개발자 함지민입니다. 잘 부탁드립니다.
+안녕하세요 신입 개발자 함지민입니다.
 
 <a href="https://github.com/kkyu8925/chat-app">팀 프로젝트 Repository</a>
 
